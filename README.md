@@ -22,15 +22,16 @@
 5. **Функции**
 
 *area_square(a)*
+	
 	- `Возвращает a × a`
   
-draw_square(size, symbol)
+*draw_square(size, symbol)*
 
-Рисует квадрат: size строк × size столбцов символов
+	- `Рисует квадрат: size строк × size столбцов символов`
 
-print_definition()
+*print_definition()*
 
-Выводит текст о квадрате
+	- `Выводит текст о квадрате`
 
 Завершение
 Прощальное сообщение
