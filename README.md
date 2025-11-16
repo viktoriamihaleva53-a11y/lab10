@@ -36,8 +36,7 @@
 6. **Конец**
 
 ### Блок-схема 
-
-
+<img width="3604" height="3284" alt="image" src="https://github.com/user-attachments/assets/03ae06f2-882b-4aa8-9801-6dfb73cb46a7" />
 
 
 ## 2. Реализация программы
